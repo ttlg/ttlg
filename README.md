@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ttlg&count_private=true&show_icons=true&theme=algolia" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ttlg&count_private=true&show_icons=true&bg_color=54C5F8&text_color=#757575&title_color=01579B" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttlg&theme=algolia" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttlg&bg_color=54C5F8&text_color=#757575&title_color=01579B" />
 </a>
